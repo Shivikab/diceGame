@@ -16,6 +16,7 @@ Click Show Rules to view instructions (with auto-scroll).
 
 # Clone the repo: 
 git clone https://github.com/Shivikab/diceGame.git
+
 cd diceGame
 
 # Install dependencies:
