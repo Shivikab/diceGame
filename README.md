@@ -3,10 +3,15 @@ React , Vite , styled-components
 
 # How to Play : 
 Select any number from 1 to 6.
+
 Click the dice image to roll.
+
 ✅ If your number matches the dice roll, you gain points equal to the dice number.
+
 ❌ If it doesn't match, you lose 2 points.
+
 Use Reset Score to reset and try again.
+
 Click Show Rules to view instructions (with auto-scroll).
 
 # Clone the repo: 
